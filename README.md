@@ -52,5 +52,5 @@ A console-based 24-puzzle game implemented in C++. This game challenges the play
 
 ## 🔖 Author
 
-Made by [Your Name].
+Made by [Khan Bibi, Ahmed Subhan, Hassan Rashid].
 
